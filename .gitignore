@@ -1,0 +1,6 @@
+/target/
+/.idea/
+*.iml
+rebel.xml
+# Project exclude paths
+/jeecg-cloud-module/jeecg-cloud-nacos/target/
