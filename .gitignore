@@ -4,3 +4,4 @@
 rebel.xml
 # Project exclude paths
 /jeecg-cloud-module/jeecg-cloud-nacos/target/
+/logs/
