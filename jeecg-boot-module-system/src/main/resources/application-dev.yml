@@ -317,3 +317,5 @@ third-app:
       # appSecret
       client-secret: ??
       agent-id: ??
+word:
+  templatePath: D:/daily_template.docx
